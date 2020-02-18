@@ -1,0 +1,10 @@
+.mt-1 {
+  padding-top: 80px !important;
+  margin: 0;
+  height: 100%;
+}
+
+.mt-1 .col-style {
+  min-height: 100vh !important;
+}
+/*# sourceMappingURL=Main.css.map */
